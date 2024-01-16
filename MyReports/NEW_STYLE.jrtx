@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio -->
+<jasperTemplate xmlns="http://jasperreports.sourceforge.net/jasperreports/template" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/template http://jasperreports.sourceforge.net/xsd/jaspertemplate.xsd">
+	<style name="titulo" mode="Opaque" forecolor="#F7E9F7" backcolor="#E64570" hTextAlign="Center" fontSize="14">
+		<box>
+			<pen lineColor="#146E5F"/>
+		</box>
+	</style>
+	<style name="subtitulo"/>
+	<style name="detalle"/>
+</jasperTemplate>
